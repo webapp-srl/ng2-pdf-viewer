@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@types/pdfjs-dist": "^0.1.1",
-    "pdfjs-dist": "github:webapp-srl/pdf.js"
+    "pdfjs-dist": "github:webapp-srl/pdfjs-dist"
   },
   "devDependencies": {
     "@angular/animations": "^5.2.0",
