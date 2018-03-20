@@ -17,7 +17,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://vadimdez@github.com/VadimDez/ng2-pdf-viewer.git"
+    "url": "git+https://webapp-srl@github.com/webapp-srl/ng2-pdf-viewer.git"
   },
   "keywords": [
     "angular",
@@ -31,9 +31,9 @@
   ],
   "author": "Vadym Yatsyuk <vadym.yatsyuk@gmail.com>",
   "bugs": {
-    "url": "https://github.com/VadimDez/ng2-pdf-viewer/issues"
+    "url": "https://github.com/webapp-srl/ng2-pdf-viewer/issues"
   },
-  "homepage": "https://github.com/VadimDez/ng2-pdf-viewer#readme",
+  "homepage": "https://github.com/webapp-srl/ng2-pdf-viewer#readme",
   "peerDependencies": {
     "@angular/core": ">=5.0.0",
     "@types/pdfjs-dist": "^0.1.1"
